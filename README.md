@@ -21,4 +21,6 @@ This app demonstrates how to use React Native and **Async Storage** to manage lo
 
 ## Preview
 
+https://github.com/serhatakhan/TaskManagerApp/assets/147662915/5c71fcf6-8b84-4ddb-8f7f-d6179602bf78
+
 
