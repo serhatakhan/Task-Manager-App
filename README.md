@@ -18,3 +18,7 @@ This app demonstrates how to use React Native and **Async Storage** to manage lo
 - UI Kitten
 - Iconsax
 - React Native Uuid
+
+## Preview
+
+
